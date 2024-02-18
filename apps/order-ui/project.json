@@ -1,0 +1,8 @@
+{
+  "name": "order-ui",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/order-ui/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
